@@ -2,4 +2,4 @@
 
 Portafolio personal
 
-https://juanherreraa.github.io/Portfolio/
+https://kaiggue.github.io/Portfolio/
